@@ -1,0 +1,21 @@
+.container {    
+    color:black;
+    font-weight: bold;
+}
+.container:hover{
+    color: rgb(49,103,255);
+    transition: 0.5s;
+}
+.login-btn{
+    font-weight: bold;
+    background-color: white;
+}
+.loginbtn:hover{
+    background-color: white;
+}
+.signbtn:hover{
+    transform: scale(1.13);
+    transition: 1s;
+    background-color:rgb(49,103,255); 
+    color: white;
+}
