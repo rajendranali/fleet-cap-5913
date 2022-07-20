@@ -19,3 +19,10 @@
     background-color:rgb(49,103,255); 
     color: white;
 }
+.navbar{
+   
+   position: -webkit-sticky;
+   position: sticky;
+   top: 0;
+   background-color: white;
+}

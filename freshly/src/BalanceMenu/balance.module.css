@@ -1,0 +1,49 @@
+.balanceMenu{
+  
+   width: 60%;
+   height: 700px;
+   background-image: url('https://uploads-ssl.webflow.com/5d03b4e130118314af624b20/62aa50d46eadd67c1b7ca2df_Freshly_SpringMarketing_C141139-Edit%20(1)%20(2).jpg');
+   background-repeat: no-repeat; 
+   background-size:cover;
+}
+.balanceMenu>img{
+    width: 100%;
+    position:relative;
+
+}
+.delivery{
+    background-color: 
+    #85e5c6;
+    width: 40%;
+  
+    height: auto;
+    
+}
+.text{
+    font-size: 40px;
+    font-weight: 800;
+    margin-left: 35%;
+  color: white;
+    
+}
+.explore{
+    margin:10%;
+     margin-right:90%;
+    width: 150PX;
+    border-radius: 0px;
+    border: 2px solid rgb(49,103,255);;
+}
+.getstart{
+    margin:10%;
+     margin-right:90%;
+    width: 150PX;
+    border-radius: 0px;
+    background-color:  rgb(49,103,255);
+    color: white;
+}
+.getstart:hover{
+    transform: scale(1.13);
+    transition: 1s;
+    color: white;
+    background-color:rgb(49,103,255) ;
+}
