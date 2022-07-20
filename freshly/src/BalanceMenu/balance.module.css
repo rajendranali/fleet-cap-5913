@@ -30,15 +30,16 @@
     margin:10%;
      margin-right:90%;
     width: 150PX;
-    border-radius: 0px;
-    border: 2px solid rgb(49,103,255);;
+    border-radius: 0px !important;
+    border: 2px solid rgb(49,103,255);
+  
 }
 .getstart{
     margin:10%;
      margin-right:90%;
     width: 150PX;
-    border-radius: 0px;
-    background-color:  rgb(49,103,255);
+    border-radius: 0px !important;
+    background-color: blue !important;
     color: white;
 }
 .getstart:hover{

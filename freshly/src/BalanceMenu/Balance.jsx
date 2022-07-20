@@ -1,6 +1,7 @@
 import React from 'react'
 import {Box,Stack,Flex,Button,Text,Image,Input} from "@chakra-ui/react"
 import styles  from "./balance.module.css"
+import Work from "../Work/Work"
 const Balance = () => {
   return (
     <Box>
@@ -31,6 +32,7 @@ const Balance = () => {
             <Button className={styles.getstart}>Get Started</Button> 
             </Box>
         </Stack>
+        <Work/>
     </Box>
   )
 }
