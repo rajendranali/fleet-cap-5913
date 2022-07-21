@@ -1,0 +1,13 @@
+.beleive{
+    display: flex;
+}
+.box1{
+   
+    height: 400px;
+    margin-top: 8%;
+    margin-right:-150px ;
+    position: relative;
+    background-color: white;
+    width: 45%;
+    margin-left: 50px;
+}

@@ -4,6 +4,7 @@ import styles  from "./balance.module.css"
 import Work from "../Work/Work"
 import OnMenu from '../OnMenu/OnMenu'
 import Review from "../Review/Review.jsx"
+import Believe from "../Webeleive/Beleive"
 const Balance = () => {
   return (
     <Box>
@@ -37,6 +38,7 @@ const Balance = () => {
         <Work/>
         <OnMenu/>
         <Review/>
+        <Believe/>
     </Box>
   )
 }
