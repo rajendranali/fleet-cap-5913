@@ -11,3 +11,14 @@
     width: 45%;
     margin-left: 50px;
 }
+
+.box2{
+   
+    height: 550px;
+    margin-top: 8%;
+    margin-left:-150px ;
+    position: relative;
+    background-color: white;
+    width: 45%;
+    padding-left: 40px;
+}
