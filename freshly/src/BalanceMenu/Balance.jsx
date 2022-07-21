@@ -2,6 +2,9 @@ import React from 'react'
 import {Box,Stack,Flex,Button,Text,Image,Input} from "@chakra-ui/react"
 import styles  from "./balance.module.css"
 import Work from "../Work/Work"
+import OnMenu from '../OnMenu/OnMenu'
+import Review from "../Review/Review.jsx"
+import Believe from "../Webeleive/Beleive"
 const Balance = () => {
   return (
     <Box>
@@ -33,6 +36,9 @@ const Balance = () => {
             </Box>
         </Stack>
         <Work/>
+        <OnMenu/>
+        <Review/>
+        <Believe/>
     </Box>
   )
 }

@@ -2,7 +2,7 @@
 import './App.css';
 import Navbar from './Navbar/Navbar';
 import {ChakraProvider} from "@chakra-ui/react"
-
+import Footer from "./Footer/Footer"
 import Allroute from './Allroutes/Allroute';
 import Balance from './BalanceMenu/Balance';
 function App() {
@@ -12,6 +12,7 @@ function App() {
      <Navbar/>
      <Allroute/>
      {/* <Balance/> */}
+    < Footer/>
       </ChakraProvider>
       
     </div>

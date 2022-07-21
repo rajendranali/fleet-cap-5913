@@ -1,0 +1,19 @@
+.review{
+    display: inline-block;
+    height: 200px;
+    width: 300px;
+   margin-left: 100px;
+}
+.box{
+    display: flex;
+    height: 410px;
+    align-items: center;
+    margin-left: 5%;
+}
+.star{
+   
+   margin-left: 65px;
+    font-size: larger;
+    font-size: 30px;
+    color: yellow;
+}
