@@ -1,0 +1,11 @@
+.disc:hover{
+    transform: scale(1.06);
+    transition: 1s;
+   
+
+}
+.disc{
+    border-radius: 16px;
+    height: 250px;
+    width: 100%;
+}

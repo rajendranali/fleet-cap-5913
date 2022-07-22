@@ -5,6 +5,7 @@ import Work from "../Work/Work"
 import OnMenu from '../OnMenu/OnMenu'
 import Review from "../Review/Review.jsx"
 import Believe from "../Webeleive/Beleive"
+import Flexible from '../PlanMenu/Flexible'
 const Balance = () => {
   return (
     <Box>
@@ -37,6 +38,7 @@ const Balance = () => {
         </Stack>
         <Work/>
         <OnMenu/>
+        <Flexible />
         <Review/>
         <Believe/>
     </Box>
