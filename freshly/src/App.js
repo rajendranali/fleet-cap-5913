@@ -11,7 +11,7 @@ function App() {
       <ChakraProvider>
      <Navbar/>
      <Allroute/>
-     {/* <Balance/> */}
+     
     < Footer/>
       </ChakraProvider>
       
