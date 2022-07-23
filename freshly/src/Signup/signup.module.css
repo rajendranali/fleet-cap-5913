@@ -1,0 +1,20 @@
+.signUp{
+    background-image: url("https://res.cloudinary.com/freshly/image/upload/c_crop,g_auto,dpr_auto,q_30,w_1500,h_900/v1494958610/joinnow-southchicken.jpg");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 100px;
+
+}
+.container{
+    background-color: white;
+    opacity:0.7;
+    height: 400px;
+    width: 900px;
+   margin-left: 250px;
+  
+}
+.input{
+    background-color: white;
+    color: black;
+}

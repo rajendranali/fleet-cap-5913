@@ -5,6 +5,7 @@ import Home from "../BalanceMenu/Home"
 import Login from '../Login/Login'
 import PlanMenu from '../PlanMenu/PlanMenu'
 import HowWork from "../HowWork/HowWork"
+import SignUp from '../Signup/SignUp'
 const Allroute = () => {
   return (
     <div>
@@ -13,6 +14,7 @@ const Allroute = () => {
         <Route path="/menu" element={<PlanMenu/>}/>
         <Route path="/login" element={<Login/>}/>
         <Route path="/work" element={<HowWork/>}/>
+        <Route path="/signup" element={<SignUp/>}/>
       </Routes>
     </div>
   )
