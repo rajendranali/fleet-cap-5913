@@ -1,8 +1,9 @@
 import React from 'react'
 import {Box,Button,Text,Flex,Stack,Image} from "@chakra-ui/react"
-import {NavLink,Link} from "react-router-dom"
+import {NavLink,Link,useNavigate} from "react-router-dom"
 import styles  from "./Nav.module.css"
 const Navbar = () => {
+  let navigate=useNavigate()
   let styleList={
     color:"rgb(49,103,255)"
 
@@ -34,7 +35,7 @@ return (
             }>Help</NavLink>
             </Stack>
             <Stack direction={['column', 'row']}>
-                <Button bg="white" className={styles.loginbtn}>Login</Button>
+                <Button bg="white" className={styles.loginbtn} onClick={()=>navigate("login")}>Login</Button>
                 <Button bg="rgb(49,103,255)" color="White" borderRadius="0px" className={styles.signbtn}>Signup</Button>
             </Stack>
 

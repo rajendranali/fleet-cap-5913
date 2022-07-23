@@ -1,0 +1,21 @@
+.bg{
+    background-image: url("https://assets-global.website-files.com/5d03b4e130118314af624b20/61f1296df66804c2d4aaf1e4_22_About_SeePlansMenu_1440x300_desktop.jpg");
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 50px;
+}
+.btn{
+    width: 200px;
+    background-color: blue;
+    color: white;
+    border-radius: 0px;
+    margin-top: 160px;
+}
+.btn1{
+    width: 200px;
+    background-color: blue;
+    color: white;
+    border-radius: 0px;
+    margin-top: 50px;
+}
