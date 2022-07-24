@@ -24,7 +24,7 @@ This project includes all the concepts where a amature can use in beaginnig stat
 
 
 
-![Screenshot (69)]()
+![Screenshot (69)](https://github.com/rajendranali/fleet-cap-5913/blob/main/freshly/public/Screenshot%20(139).png)
 
 ## Technologies we used
 <!-- <hr> -->
@@ -39,7 +39,7 @@ This project includes all the concepts where a amature can use in beaginnig stat
  - Git
  
 
-- [Blog Link]()
+
 
 
 ## Features 
@@ -63,9 +63,20 @@ This project includes all the concepts where a amature can use in beaginnig stat
   - The user can get sign in if they have own acccount otherwise use can make his own account by simply fill form in sign Up parts of the page
   ## screenshorts
   #### these are some screenshort for overview website
-  -  platform where You will Landing Page.
-  ![landingpage]()
-  - these are some trending items for kitchen and other
+  ##### platform where You will Landing Page.
+  ![landingpage](https://github.com/rajendranali/fleet-cap-5913/blob/main/freshly/public/Screenshot%20(139).png)
+  ![landing1](https://github.com/rajendranali/fleet-cap-5913/blob/main/freshly/public/Screenshot%20(141).png)
+  #### Plan & Menu
+  ![menu](https://github.com/rajendranali/fleet-cap-5913/blob/main/freshly/public/Screenshot%20(143).png)
+  ![menu2](https://github.com/rajendranali/fleet-cap-5913/blob/main/freshly/public/Screenshot%20(140).png)
+  
+  #### How it Work:
+  ![work](https://github.com/rajendranali/fleet-cap-5913/blob/main/freshly/public/Screenshot%20(145).png)
+  #### login
+  ![woek](https://github.com/rajendranali/fleet-cap-5913/blob/main/freshly/public/Screenshot%20(147).png)
+  #### Sing Up:
+  ![signup](https://github.com/rajendranali/fleet-cap-5913/blob/main/freshly/public/Screenshot%20(148).png)
+  
  
 
    
