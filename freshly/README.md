@@ -2,7 +2,7 @@
 ## About Project:
 This project about Cloning of Freshly.com which is a New York-based prepared meal delivery company that delivers throughout the United States .We can order Food after we authenticate or login to the site.this project very friendly to user you order foor with minum time abd easy steps.
 
-> Live demo Vercel: [_here_](https://vercel.com/rajendranali/freshly). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo Vercel: [_here_](https://freshly-pqh483k6c-rajendranali.vercel.app/). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
