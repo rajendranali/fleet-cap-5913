@@ -1,70 +1,75 @@
-# Getting Started with Create React App
+# FRESHLY.COM
+## About Project:
+This project about Cloning of Freshly.com which is a New York-based prepared meal delivery company that delivers throughout the United States .We can order Food after we authenticate or login to the site.this project very friendly to user you order foor with minum time abd easy steps.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
-## Available Scripts
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Screenshots](#screenshots)
+* [Setup](#setup)
+* [Usage](#usage)
+* [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
+* [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## General Information
+This project includes all the concepts where a amature can use in beaginnig state of framework .Yes thsi project about implementation with details about ReactJs and Learning the with deep understanding of ReactJs .
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Screenshot (69)](https://user-images.githubusercontent.com/94555507/167800744-903e6eab-c759-48f5-a09c-4d3e2f074b63.png)
+Uberic.com is a e-commerse website which provide groucery cloth mens womens garments and assaceries this is a high growing website 
+## Technologies we used
+<!-- <hr> -->
+ - VSCode - version 1.69
+ - ReactJs - version 18.0
+ - Heroku
 
-### `npm run build`
+- [Blog Link]()
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Features 
+<!-- --- -->
+- Login and logout functionality.
+- Navbar contains Plan & Menu  and other pages.
+- You can enter ZIP code Delivery Services and Available Services.
+- on clicking on any items you can get all details information about the meals and all the ingredients used to prepared.
+-you can apply the filter to sort the ingredients and meals.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Steps to navigate the website:
+<!-- <hr> -->
+- On the Landing Page navbar right side , user can click on the Sign In or Create an Account you have to singup 
+- Once the user has logged in, they are taken back to the Landing Page.
+- On the top nav-bar, the user can navigate to the following categories: 
+- 1.Plan & Menu
+- 2.How it Works
+  - On clicking on Mens 'Quick View' all content. Clicking on any content , the user will be shown the details information about the meals and all the ingredients used to prepared.
+-   You also get the review Given by trusted Customer.
+- On Sign in /Sign up  
+  - The user can get sign in if they have own acccount otherwise use can make his own account by simply fill form in sign Up parts of the page
+  ## screenshorts
+  #### these are some screenshort for overview website
+  -  platform where Menu will be available
+  ![Screenshot (68)](https://user-images.githubusercontent.com/94555507/167801102-e97d0d14-db8f-4725-99ec-f650a0439441.png)
+  - these are some trending items for kitchen and other
+ ![Screenshot (71)](https://user-images.githubusercontent.com/94555507/167802134-dc07c785-b2d3-40dc-8a4c-f0c339107f05.png)
+  - there are simple sign up or sign in process
+![Screenshot (73)](https://user-images.githubusercontent.com/94555507/167802758-88eb8f14-67c1-4fa1-8073-b29f840fca9d.png)
+ - sign in page /Resister pages for new costumor
+ ![Screenshot (72)](https://user-images.githubusercontent.com/94555507/167802820-1e11f3a5-c493-414f-985c-660bff3d503d.png)
+  - simple ui for cart and place order
+ ![Screenshot (70)](https://user-images.githubusercontent.com/94555507/167801867-cfb869c8-f909-4ebe-8501-4e97e799dc4e.png)
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+   - Video Link: https://drive.google.com/file/d/1yyuSdCYOey9mYWW8Klyfjd0RKTP4SRVS/view?usp=sharing
+   - Netlify Link :https://sensational-frangipane-c21793.netlify.app/
+   - Medium Link:https://medium.com/@karinakhairnar/uboric-com-clone-4543c72bbfe9
+   
+   ## Authors
+    [Rajendra Nali](https://github.com/rajendranali/)
