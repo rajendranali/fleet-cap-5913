@@ -57,7 +57,7 @@ Uberic.com is a e-commerse website which provide groucery cloth mens womens garm
   ## screenshorts
   #### these are some screenshort for overview website
   -  platform where You will Landing Page.
-  ![Screenshot (68)]()
+  ![Screenshot (68)](https://drive.google.com/file/d/1VVUbEewaLfLZ_dDNE_CIueLxlSxJyxwB/view?usp=sharing)
   - these are some trending items for kitchen and other
  ![Screenshot (71)](https://user-images.githubusercontent.com/94555507/167802134-dc07c785-b2d3-40dc-8a4c-f0c339107f05.png)
   - there are simple sign up or sign in process
