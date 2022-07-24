@@ -24,7 +24,7 @@ This project includes all the concepts where a amature can use in beaginnig stat
 
 
 
-![Screenshot (69)](fleet-cap-5913\freshly\public\Screenshot (139).png)
+![Screenshot (69)]()
 
 ## Technologies we used
 <!-- <hr> -->
@@ -59,17 +59,8 @@ This project includes all the concepts where a amature can use in beaginnig stat
   -  platform where You will Landing Page.
   ![Screenshot (68)](fleet-cap-5913\freshly\public\Screenshot (139).png)
   - these are some trending items for kitchen and other
- ![Screenshot (71)](https://user-images.githubusercontent.com/94555507/167802134-dc07c785-b2d3-40dc-8a4c-f0c339107f05.png)
-  - there are simple sign up or sign in process
-![Screenshot (73)](https://user-images.githubusercontent.com/94555507/167802758-88eb8f14-67c1-4fa1-8073-b29f840fca9d.png)
- - sign in page /Resister pages for new costumor
- ![Screenshot (72)](https://user-images.githubusercontent.com/94555507/167802820-1e11f3a5-c493-414f-985c-660bff3d503d.png)
-  - simple ui for cart and place order
- ![Screenshot (70)](https://user-images.githubusercontent.com/94555507/167801867-cfb869c8-f909-4ebe-8501-4e97e799dc4e.png)
+ 
 
-   - Video Link: https://drive.google.com/file/d/1yyuSdCYOey9mYWW8Klyfjd0RKTP4SRVS/view?usp=sharing
-   - Netlify Link :https://sensational-frangipane-c21793.netlify.app/
-   - Medium Link:https://medium.com/@karinakhairnar/uboric-com-clone-4543c72bbfe9
    
    ## Authors
     [Rajendra Nali](https://github.com/rajendranali/)
