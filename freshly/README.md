@@ -29,8 +29,15 @@ This project includes all the concepts where a amature can use in beaginnig stat
 ## Technologies we used
 <!-- <hr> -->
  - VSCode - version 1.69
+
+ - Vercel
+ ##Tech-Stack:
  - ReactJs - version 18.0
- - Heroku
+ - Chakra -ui
+ - React icons
+ - Json server
+ - Git
+ 
 
 - [Blog Link]()
 
@@ -57,7 +64,7 @@ This project includes all the concepts where a amature can use in beaginnig stat
   ## screenshorts
   #### these are some screenshort for overview website
   -  platform where You will Landing Page.
-  ![Screenshot (68)](fleet-cap-5913\freshly\public\Screenshot (139).png)
+  ![landingpage]()
   - these are some trending items for kitchen and other
  
 
