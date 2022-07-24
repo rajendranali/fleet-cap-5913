@@ -56,8 +56,8 @@ Uberic.com is a e-commerse website which provide groucery cloth mens womens garm
   - The user can get sign in if they have own acccount otherwise use can make his own account by simply fill form in sign Up parts of the page
   ## screenshorts
   #### these are some screenshort for overview website
-  -  platform where Menu will be available
-  ![Screenshot (68)](https://user-images.githubusercontent.com/94555507/167801102-e97d0d14-db8f-4725-99ec-f650a0439441.png)
+  -  platform where You will Landing Page.
+  ![Screenshot (68)]()
   - these are some trending items for kitchen and other
  ![Screenshot (71)](https://user-images.githubusercontent.com/94555507/167802134-dc07c785-b2d3-40dc-8a4c-f0c339107f05.png)
   - there are simple sign up or sign in process
