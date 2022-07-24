@@ -24,8 +24,8 @@ This project includes all the concepts where a amature can use in beaginnig stat
 
 
 
-![Screenshot (69)](https://user-images.githubusercontent.com/94555507/167800744-903e6eab-c759-48f5-a09c-4d3e2f074b63.png)
-Uberic.com is a e-commerse website which provide groucery cloth mens womens garments and assaceries this is a high growing website 
+![Screenshot (69)](fleet-cap-5913\freshly\public\Screenshot (139).png)
+
 ## Technologies we used
 <!-- <hr> -->
  - VSCode - version 1.69
@@ -57,7 +57,7 @@ Uberic.com is a e-commerse website which provide groucery cloth mens womens garm
   ## screenshorts
   #### these are some screenshort for overview website
   -  platform where You will Landing Page.
-  ![Screenshot (68)](https://drive.google.com/file/d/1VVUbEewaLfLZ_dDNE_CIueLxlSxJyxwB/view?usp=sharing)
+  ![Screenshot (68)](fleet-cap-5913\freshly\public\Screenshot (139).png)
   - these are some trending items for kitchen and other
  ![Screenshot (71)](https://user-images.githubusercontent.com/94555507/167802134-dc07c785-b2d3-40dc-8a4c-f0c339107f05.png)
   - there are simple sign up or sign in process
