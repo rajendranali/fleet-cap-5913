@@ -31,7 +31,7 @@ This project includes all the concepts where a amature can use in beaginnig stat
  - VSCode - version 1.69
 
  - Vercel
- ##Tech-Stack:
+## Tech-Stack:
  - ReactJs - version 18.0
  - Chakra -ui
  - React icons
